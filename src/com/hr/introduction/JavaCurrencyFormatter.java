@@ -1,4 +1,4 @@
-package com.HR.introduction;
+package com.hr.introduction;
 
 import java.text.NumberFormat;
 import java.util.Locale;

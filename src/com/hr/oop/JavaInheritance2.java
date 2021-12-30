@@ -1,4 +1,4 @@
-package com.HR.oop;
+package com.hr.oop;
 
 class Arithmetic {
 	public int add(int a, int b) {

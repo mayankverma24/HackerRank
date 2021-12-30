@@ -1,4 +1,4 @@
-package com.HR.ifElse;
+package com.hr.ifElse;
 
 import java.util.*;
 

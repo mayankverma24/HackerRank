@@ -1,4 +1,4 @@
-package com.HR.exceptionHandling;
+package com.hr.exceptionHandling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

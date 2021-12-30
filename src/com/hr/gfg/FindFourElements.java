@@ -1,4 +1,4 @@
-package com.HR.gfg;
+package com.hr.gfg;
 
 import java.util.Scanner;
 

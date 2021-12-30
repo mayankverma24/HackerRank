@@ -1,4 +1,4 @@
-package com.HR.oop;
+package com.hr.oop;
 
 class Animal {
 	void walk() {

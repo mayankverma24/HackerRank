@@ -1,4 +1,4 @@
-package com.HR.introduction;
+package com.hr.introduction;
 
 import java.util.Scanner;
 
